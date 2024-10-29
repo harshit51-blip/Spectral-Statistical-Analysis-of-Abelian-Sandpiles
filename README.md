@@ -8,3 +8,5 @@ Then I introduced some physical models in the general model. (in my system it is
 I did not expect to see any significantly different results as the general model I plotted is for a GOE and the pendulum is a case for a GOE.
 
 I am working on the theoretical models, I have come across and worked with the math required for this but I think the exact solution has, until now, only been approximated, as a chaotic system, or a symmetry breaking implies going from one kind of an ensemble to another. (in this case GOE to GUE) I also have not seen anyone (or any literature) plot eigenvalue deviations (or mean) as a measure of the statistical evolution of the system, so I will have to work on that myself.
+
+In the repo, you'll also find a brief description (the pdf) of the work I did during my internship where I was introduced to RMT, about a year before I took on this project.
